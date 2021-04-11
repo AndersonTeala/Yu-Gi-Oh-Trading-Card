@@ -2,10 +2,11 @@
   "name": "yu-gi-oh-cards",
   "version": "0.0.1",
   "description": "Cads app",
-  "productName": "Yu-Gi-Oh cadss",
+  "productName": "Yu-Gi-Oh Cards",
   "author": "Anderson Teala <andersonteala@gmail.com>",
   "private": true,
   "scripts": {
+    "start": "quasar dev",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
